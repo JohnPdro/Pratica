@@ -1,0 +1,14 @@
+.cor-fundo{
+    background-color: brown;
+}
+
+.cor-fonte-label{
+    color: white;
+}
+
+.formulario{
+    background-color: brown;
+    height: 300px;
+    width: 700px;
+    padding-top: 28px;
+}
